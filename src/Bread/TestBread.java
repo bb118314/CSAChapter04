@@ -1,3 +1,7 @@
+package Bread;
+
+import Bread.Bread;
+
 public class TestBread {
     public static void main(String[] args) {
         Bread bread1 = new Bread("Rye", 1);

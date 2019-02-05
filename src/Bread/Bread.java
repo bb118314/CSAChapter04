@@ -1,7 +1,9 @@
+package Bread;
+
 public class Bread {
     private String type;
     private int calories;
-    public final static String MOTTO = "The staff of Life";
+    public final static String MOTTO = "The Staff of Life";
     public Bread(String type, int calories1 ){
         this.type = type;
         calories = calories1;
